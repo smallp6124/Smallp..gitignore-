@@ -1,6 +1,6 @@
 # Smallp..gitignore-
 
-git clone https://github.com/SMALL-PETER/SMLLP..gitignore.git cd small-peter
+git clone https://github.com/SMALL-PETER/small-peter.git cd small-peter
 
 JavaScriptconsole.log("Hello, World!"); 
 
